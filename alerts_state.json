@@ -15,5 +15,12 @@
       "hour",
       "final"
     ]
+  },
+  "dfcabb3c-078b-4f5b-a47c-0161f248cee9": {
+    "name": "Zhuque-2E | Unknown Payload",
+    "net": "2026-10-14T11:40:00Z",
+    "sent": [
+      "day"
+    ]
   }
 }
