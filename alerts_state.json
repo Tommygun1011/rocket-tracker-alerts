@@ -10,7 +10,8 @@
     "name": "H3-24 | Martian Moons eXploration (MMX)",
     "net": "2026-10-19T19:41:03Z",
     "sent": [
-      "day"
+      "day",
+      "hour"
     ]
   }
 }
