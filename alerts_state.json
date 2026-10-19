@@ -1,10 +1,9 @@
 {
   "3b430f81-0ff1-4d85-8a1a-cef0de326198": {
     "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-    "net": "2026-10-19T10:30:00Z",
-    "sent": [
-      "day"
-    ]
+    "net": "2026-10-20T10:30:00Z",
+    "rescheduled": true,
+    "sent": []
   },
   "69ebbcd2-b257-4070-9ef9-21e7d1f8a883": {
     "name": "H3-24 | Martian Moons eXploration (MMX)",
