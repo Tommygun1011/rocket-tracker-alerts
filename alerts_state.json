@@ -3,7 +3,8 @@
     "name": "Falcon 9 Block 5 | Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
     "net": "2026-10-20T10:30:00Z",
     "sent": [
-      "day"
+      "day",
+      "hour"
     ]
   },
   "69ebbcd2-b257-4070-9ef9-21e7d1f8a883": {
