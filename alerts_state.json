@@ -18,10 +18,9 @@
   },
   "7766f3bb-674c-4c71-b986-963bd633fcfe": {
     "name": "Electron | We're Not Hawking Around (3x HawkEye 360)",
-    "net": "2026-10-21T07:00:00Z",
-    "sent": [
-      "day"
-    ]
+    "net": "2026-10-22T07:00:00Z",
+    "rescheduled": true,
+    "sent": []
   },
   "c6f8b6b0-6bae-460a-99bb-c12a3d29effd": {
     "name": "Ceres-1S | Unknown Payload",
@@ -32,7 +31,7 @@
   },
   "f6af629d-39b5-4f86-bc0c-f8776444a858": {
     "name": "Falcon 9 Block 5 | Starlink Group 15-15",
-    "net": "2026-10-21T21:59:00Z",
+    "net": "2026-10-21T23:02:41Z",
     "sent": [
       "day"
     ]
