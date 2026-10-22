@@ -9,10 +9,9 @@
   },
   "7766f3bb-674c-4c71-b986-963bd633fcfe": {
     "name": "Electron | We're Not Hawking Around (3x HawkEye 360)",
-    "net": "2026-10-22T07:00:00Z",
-    "sent": [
-      "day"
-    ]
+    "net": "2026-10-23T07:00:00Z",
+    "rescheduled": true,
+    "sent": []
   },
   "c6f8b6b0-6bae-460a-99bb-c12a3d29effd": {
     "name": "Ceres-1S | Unknown Payload",
