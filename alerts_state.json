@@ -3,7 +3,8 @@
     "name": "Falcon 9 Block 5 | Starlink Group 15-16",
     "net": "2026-10-27T07:25:51Z",
     "sent": [
-      "day"
+      "day",
+      "hour"
     ]
   }
 }
