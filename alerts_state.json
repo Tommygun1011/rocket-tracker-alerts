@@ -7,6 +7,13 @@
       "hour"
     ]
   },
+  "711de6bc-f755-475b-a12f-ec5240da3a11": {
+    "name": "Long March 2C | Unknown Payload",
+    "net": "2026-11-05T16:00:00Z",
+    "sent": [
+      "day"
+    ]
+  },
   "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f": {
     "name": "Mir | Demo Flight",
     "net": "2026-11-04T05:00:00Z",
