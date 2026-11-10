@@ -2,8 +2,9 @@
   "6aa7b90b-e5ed-45d8-a52e-04fbf399d178": {
     "name": "Falcon 9 Block 5 | USSF-627",
     "net": "2026-11-11T02:49:00Z",
-    "rescheduled": true,
-    "sent": []
+    "sent": [
+      "day"
+    ]
   },
   "a2423132-f965-423f-8b03-6891b775dc54": {
     "name": "Long March 12 | SatNet LEO Group TBD?",
