@@ -1,10 +1,9 @@
 {
   "6aa7b90b-e5ed-45d8-a52e-04fbf399d178": {
     "name": "Falcon 9 Block 5 | USSF-627",
-    "net": "2026-11-11T02:49:00Z",
-    "sent": [
-      "day"
-    ]
+    "net": "2026-11-12T02:35:00Z",
+    "rescheduled": true,
+    "sent": []
   },
   "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f": {
     "name": "Mir | Demo Flight",
