@@ -13,13 +13,6 @@
       "day"
     ]
   },
-  "9e27a1ed-e81a-4918-b32b-0380cf3a9f8f": {
-    "name": "Mir | Demo Flight",
-    "net": "2026-11-11T05:00:00Z",
-    "sent": [
-      "day"
-    ]
-  },
   "bff2fc91-eddd-4dfc-af26-ac0674cfab4d": {
     "name": "Soyuz 2.1b/Fregat-M | MKA Kinosputnik, KOEN and others",
     "net": "2026-11-14T00:50:00Z",
@@ -30,6 +23,13 @@
   "d66590ab-b273-47ff-b85a-608b62851b4b": {
     "name": "Long March 2D | Unknown Payload",
     "net": "2026-11-11T11:40:00Z",
+    "sent": [
+      "day"
+    ]
+  },
+  "db3500ac-965b-4ad8-b417-cb8d8d005586": {
+    "name": "Electron | The Mountain God Rises (iQPS Launch 10)",
+    "net": "2026-11-14T05:30:00Z",
     "sent": [
       "day"
     ]
