@@ -24,7 +24,8 @@
     "name": "Vulcan VC6L | Amazon Leo (LV-01)",
     "net": "2026-11-15T17:11:30Z",
     "sent": [
-      "day"
+      "day",
+      "hour"
     ]
   }
 }
