@@ -1,7 +1,14 @@
 {
   "76617033-4dc0-4448-b50c-e5b0d5a18539": {
     "name": "Falcon 9 Block 5 | USSF-317",
-    "net": "2026-11-20T04:28:55Z",
+    "net": "2026-11-20T04:32:55Z",
+    "sent": [
+      "day"
+    ]
+  },
+  "a2975167-7c6f-4403-99e1-b40df17c8140": {
+    "name": "Long March 8A | SatNet LEO Group TBD?",
+    "net": "2026-11-20T11:59:00Z",
     "sent": [
       "day"
     ]
