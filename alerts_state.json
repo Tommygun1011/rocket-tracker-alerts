@@ -1,7 +1,7 @@
 {
   "460d9db7-eaf6-4cd9-b095-cff433534c09": {
     "name": "Falcon 9 Block 5 | USSF-266",
-    "net": "2026-11-24T15:55:00Z",
+    "net": "2026-11-24T16:08:59Z",
     "sent": [
       "day"
     ]
@@ -15,14 +15,22 @@
   },
   "8dd5de11-831b-445f-86f0-bffefe0550d9": {
     "name": "Soyuz 2.1b | Progress MS-36 (97P)",
-    "net": "2026-11-24T10:13:00Z",
+    "net": "2026-11-24T10:17:00Z",
     "sent": [
-      "day"
+      "day",
+      "hour"
     ]
   },
   "951a341f-236b-42fe-a667-4ab2fcf36eac": {
     "name": "Falcon 9 Block 5 | NROL-136",
     "net": "2026-11-22T12:23:56Z",
+    "sent": [
+      "day"
+    ]
+  },
+  "c9605b67-8a53-4239-a8ae-577fe3b79799": {
+    "name": "Long March 2F/G | Shenzhou 24",
+    "net": "2026-11-25T00:18:00Z",
     "sent": [
       "day"
     ]
